@@ -1,8 +1,9 @@
 # React Essential Training
-> In this course, software developer highlights the latest techniques for building a React app from scratch. 
+> With the example code snippets, software developer highlights the latest techniques for building a React app from scratch. 
 Learn how to create elements, write components, and use React hooks. Get familiar with libraries like Next and Vite, and discover the differences between React Server Components and Client Components. 
+
 Find out how to use the latest tools, techniques, and patterns that will help futureproof applications and make them more scalable and performant. 
-After watching the course, you will be able to start your own project from scratch, and you will also be able to jump into an existing React codebase and make an impact.
+The combined code examples, can be a guide to help start your own React.js project from scratch, and you will also be able to jump into an existing React codebase and make an impact to the project.
 
 # Learning objectives
 - Develop dynamic user interfaces using React components, JSX syntax, and props to manage and display dynamic data.
