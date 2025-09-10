@@ -22,8 +22,6 @@ const dishObjects = items.map((dish, i) => ({
   title: dish,
 }));
 
-console.log(dishObjects);
-
 function Main({ dishes }) {
   return (
     <>
